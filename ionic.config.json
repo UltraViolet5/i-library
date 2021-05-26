@@ -1,0 +1,8 @@
+{
+  "name": "ILibrary",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "072c8c9f"
+}
